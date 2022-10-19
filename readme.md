@@ -11,7 +11,7 @@ These are my projects...
 [Sketch 1](./sketch/)
 
 
-<iframe src="./sketch/" width="400"; height="400"></iframe>
+<iframe src="./sketch/"></iframe>
 
 -Description:
 As you click the red square, it will do math in the output console.
