@@ -16,6 +16,13 @@ These are my projects...
 ## Description:
 As you click the red square, it will do math in the output console.
 
-Sketch 2
+# Cauldron
+
+[Sketch 2](./cauldron/)
+
+<iframe src="./cauldron/"></iframe>
+
+## Description
+A spooky cauldron that will eventually have a bubble particle effect.
 
 Sketch 3
